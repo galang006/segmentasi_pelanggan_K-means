@@ -1,2 +1,2 @@
-# FP_ML
-Final Projek Machine Learning - Segmentasi Pelanggan menggunakan K-means clustering 
+# Segmentasi Pelanggan menggunakan K-means clustering
+Final Projek Machine Learning 
